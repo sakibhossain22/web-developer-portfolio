@@ -223,3 +223,46 @@ main section {
     text-align: center;
     margin: 50px 0;
 }
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff8f3;
+    padding: 130px 100px;
+    max-width: 1140px;
+    margin: auto;
+    text-align: left;
+}
+footer {
+    background-color: #fff8f3;
+    gap: 100px;
+}
+.footer-columm {
+    width: 50%;
+}
+.f-title, .f-des {
+    text-align: left;
+}
+.footer-columm input, textarea {
+    display: block;
+    margin-bottom: 25px;
+    border: #757575;
+    font-size: 16px;
+    color: #757575;
+    width: 100%;
+    font-size: 16px;
+    padding: 18px 35px;
+
+}
+.footer-columm input {
+    
+}
+.footer-columm textarea {
+    
+}
+.social-link a {
+    margin-right: 20px;
+    text-decoration: none;
+}
+.social-link {
+    margin-top: 25px;
+}

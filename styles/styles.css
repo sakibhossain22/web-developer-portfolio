@@ -54,6 +54,8 @@ nav a {
     background-image: url('../images/header_bg.png');
     background-repeat: no-repeat;
     background-position: bottom right;
+    width: 1140px;
+    margin: auto;
 }
 
 .btn-contact {
